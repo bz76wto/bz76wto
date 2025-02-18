@@ -30,4 +30,4 @@
 ---
 
 📬 **Let's Connect!**  
-[🔗 LinkedIn](https://www.linkedin.com/in/your-profile) • [🌍 Website](https://your-website.com) • [🐦 Twitter](https://twitter.com/your-handle)
+[🔗 LinkedIn](https://www.linkedin.com/in/cbzca) • [🌍 Website](https://your-website.com) • [🐦 Twitter](https://twitter.com/your-handle)
