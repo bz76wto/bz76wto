@@ -56,10 +56,10 @@
 📄 [Enhancing Safety of Autonomous Vehicles in Adverse Weather](https://ruor.uottawa.ca/items/23235134-f22f-4a9e-98f2-641b19323238)  
 📄 [AI-Driven Predictive Models for Sustainable Agriculture](#)  
 📄 [Restricted Hopfield Networks and Adversarial Robustness](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173610613.34874972)  
-📄 Boosting Adversarial Robustness with Gradient-Feature Alignment  *(Under review at the 38th Canadian Conference on AI)*  
-📄 Bidirectional Associative Memory Trained by Subspace Rotation Algorithm  *(Under review at IJCAI 2025)*  
-📄 Enhancing Adversarial Resilience in Ensembles Through Combined Gradient Alignment and Gradient Norm Regularization  *(Under review at IJCAI 2025)*
-📄 Restricted Hopfield Networks are Robust to Adversarial Attack
+📄 Boosting Adversarial Robustness with Gradient-Feature Alignment (Under Review at the 38th Canadian Conference on AI)
+📄 Bidirectional Associative Memory Trained by Subspace Rotation Algorithm (Under Review at IJCAI 2025)
+📄 Enhancing Adversarial Resilience in Ensembles Through Combined Gradient Alignment and Gradient Norm Regularization (Under Review at IJCAI 2025)
+📄 Restricted Hopfield Networks are Robust to Adversarial Attack (Manuscript in preparation / Preprint forthcoming)
 
 ---
 ## 📬 Let's Connect!  
