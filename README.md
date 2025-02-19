@@ -40,44 +40,22 @@
 ---
 
 ## 📜 Recent Publications  
-📄 [Enhancing Safety of Autonomous Vehicles in Adverse Weather](#)  
+📄 [Enhancing Safety of Autonomous Vehicles in Adverse Weather](https://ruor.uottawa.ca/items/23235134-f22f-4a9e-98f2-641b19323238)  
 📄 [AI-Driven Predictive Models for Sustainable Agriculture](#)  
 📄 [Restricted Hopfield Networks and Adversarial Robustness](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173610613.34874972)  
 
 ---
 
 ## 📬 Let's Connect!  
-📩 **Email:** your.email@example.com  
+📩 **Email:** bzhan138@uottawa.ca 
 🌐 **Website:** [yourwebsite.com](https://yourwebsite.com)  
 🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
 
 ---
 
-## 🚀 GitHub Stats & Contributions  
+⭐ **Fun Fact:** *I love urban aesthetics, museums, and writing papers on cutting-edge AI methods!* 🤖📚  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8wM3FqcmE4ZGg3ZG9mZGJieGd2MmxmdHV5NThodnM4NzIzOHNhNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N7VIZHsDbf9lFX6oyY/giphy.gif" width="300">
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-username&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=your-username&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-dark" alt="GitHub Contribution Graph" />
-</p>
-
-## 📊 Contribution Breakdown
-
-- **💻 Commits:** 61%
-- **🔍 Code Reviews:** 16%
-- **🚀 Pull Requests:** 13%
-- **🐞 Issues Reported:** 10%
-
-✨ *Total Contributions in the Last Year:* **1,352** ✨
 
