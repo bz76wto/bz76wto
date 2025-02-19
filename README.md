@@ -53,9 +53,31 @@
 
 ---
 
-⭐ **Fun Fact:** *I love urban aesthetics, museums, and writing papers on cutting-edge AI methods!* 🤖📚  
+## 🚀 GitHub Stats & Contributions  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8wM3FqcmE4ZGg3ZG9mZGJieGd2MmxmdHV5NThodnM4NzIzOHNhNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N7VIZHsDbf9lFX6oyY/giphy.gif" width="300">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-username&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=your-username&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-dark" alt="GitHub Contribution Graph" />
+</p>
+
+## 📊 Contribution Breakdown
+
+- **💻 Commits:** 61%
+- **🔍 Code Reviews:** 16%
+- **🚀 Pull Requests:** 13%
+- **🐞 Issues Reported:** 10%
+
+✨ *Total Contributions in the Last Year:* **1,352** ✨
 
