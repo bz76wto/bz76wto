@@ -56,6 +56,7 @@
 ⭐ **Fun Fact:** *I love urban aesthetics, museums, and writing papers on cutting-edge AI methods!* 🤖📚  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8wM3FqcmE4ZGg3ZG9mZGJieGd2MmxmdHV5NThodnM4NzIzOHNhNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N7VIZHsDbf9lFX6oyY/giphy.gif" width="300">
+  <img src="https://miro.medium.com/v2/resize:fit:1080/format:webp/1*48ylodrFmo6vJIUJipTFvw.gif" width="300">
 </p>
+
 
