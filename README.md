@@ -11,7 +11,7 @@
   <a href="https://github.com/bz76wto">
     <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub Followers">
   </a>
-  <a href="https://scholar.google.com/citations?user=your-scholar-id">
+  <a href="https://scholar.google.ca/citations?user=0N3p8ZQAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-Citations-blue?style=flat&logo=google-scholar" alt="Google Scholar">
   </a>
 </p>
