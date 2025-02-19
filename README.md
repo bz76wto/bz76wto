@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://github.com/bz76wto">
-    <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/bz76wto?label=Follow&style=social" alt="GitHub Followers">
   </a>
   <a href="https://scholar.google.ca/citations?user=0N3p8ZQAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-Citations-blue?style=flat&logo=google-scholar" alt="Google Scholar">
