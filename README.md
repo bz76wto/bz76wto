@@ -39,6 +39,17 @@
   - Applied **deep learning & computer vision** to automate **satellite-based data processing**.  
   - Investigated **AI-driven prediction models** for environmental monitoring and disaster response.  
 
+- 🔬 **Adversarially Robust Memory Systems**  
+  - **Restricted Hopfield Networks (RHN) for Memory Retrieval**  
+    - The **Restricted Hopfield Network (RHN)** enhances classical **Hopfield Neural Networks (HNNs)** with **multiple hidden layers** and the **Subspace Rotation Algorithm (SRA)** for training.  
+    - These improvements **increase storage capacity and enhance robustness** against **noise and adversarial perturbations**.  
+    - RHNs with **orthogonal weight matrices trained by SRA** form **stable attraction basins**, improving both **retrieval accuracy and adversarial resilience**.  
+
+  - **Evaluation Against Adversarial Attacks & Competing Models**  
+    - Systematic evaluation against **Dense Associative Memory (DAM), Predictive Coding Network (PCN), and Multilayer Perceptron (MLP)** demonstrates **RHN’s superior performance in adversarial robustness and pattern retrieval**.  
+    - Experiments with **alphabet and character datasets** show RHN outperforms other models in scenarios involving **Fast Gradient Sign Method (FGSM), Basic Iterative Method (BIM), Projected Gradient Descent (PGD), and Gaussian Noise (GN) attacks**.  
+    - Results highlight **RHNs' effectiveness in adversarially resilient memory systems**, making them a promising solution for **secure and efficient memory architectures**.
+      
 💡 **Tech Stack:**  
 - 🧠 **Deep Learning:** PyTorch, TensorFlow, Detectron2, MMDetection  
 - 📊 **Data Science:** Python, R, PostgreSQL, MATLAB, GIS  
