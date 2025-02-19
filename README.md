@@ -57,11 +57,10 @@
 📄 [Restricted Hopfield Networks and Adversarial Robustness](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173610613.34874972)  
 
 ---
-
 ## 📬 Let's Connect!  
-📩 **Email:** bzhan138@uottawa.ca 
+📩 **Email:** bzhan138@uottawa.ca  
 🌐 **Website:** [yourwebsite.com](https://yourwebsite.com) 🚧 *(Coming Soon...)*  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle) 🚧 *(Coming Soon...)*   
+🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle) 🚧 *(Coming Soon...)*  
 
 ---
 
