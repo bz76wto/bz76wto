@@ -59,6 +59,7 @@
 📄 Boosting Adversarial Robustness with Gradient-Feature Alignment  *(Under review at the 38th Canadian Conference on AI)*  
 📄 Bidirectional Associative Memory Trained by Subspace Rotation Algorithm  *(Under review at IJCAI 2025)*  
 📄 Enhancing Adversarial Resilience in Ensembles Through Combined Gradient Alignment and Gradient Norm Regularization  *(Under review at IJCAI 2025)*
+📄 Restricted Hopfield Networks are Robust to Adversarial Attack
 
 ---
 ## 📬 Let's Connect!  
