@@ -1,33 +1,61 @@
-# 👋 Hi, I'm Claire Zhang!
+<h1 align="center">Hey there 👋, I'm Claire!</h1>
 
-🚀 Passionate about **AI for scientific discovery, deep learning, and sustainable technology**.  
-🔍 Researching **robust ML, computer vision, and autonomous systems**.  
-📊 Formerly at **WTO, CSA, ESA** | **Exploring scalable data selection & unsupervised video denoising**  
+<p align="center">
+  <b>🌎 Data Scientist | ML Researcher | AI for Sustainability</b>  
+</p>
 
----
-
-### 🌱 Currently Working On:
-- 🌍 AI for **climate impact modeling** and **humanitarian crisis detection**
-- 🏎️ **Autonomous vehicle perception** under adverse weather conditions
-- 🔬 Applying **transformers & generative models** in real-world scenarios
-
----
-
-### 📌 Featured Projects:
-🔹 [Project A](https://github.com/bz76wto/LSTM-Nitrous-Oxide-Prediction/) - Advanced deep learning model for weather-based object detection.  
-🔹 [Project B](https://github.com/your-repo) - Scalable ML pipeline for **efficient data selection**.  
-🔹 [Project C](https://github.com/bz76wto/LSTM-Nitrous-Oxide-Prediction/) - Advanced deep learning model for weather-based object detection.  
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://scholar.google.com/citations?user=your-scholar-id">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Citations-blue?style=flat&logo=google-scholar" alt="Google Scholar">
+  </a>
+</p>
 
 ---
 
-### 🛠 Languages & Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 👩‍💻 About Me
+- 🚀 Passionate about **AI for Sustainability, Machine Learning, and Remote Sensing**.
+- 🌱 Exploring cutting-edge **deep learning** methods for real-world impact.
+- 🔭 Researching **adversarial robustness, AI for Earth observation, and computational optimization**.
+- ✨ Love working on **computer vision, NLP, and AI for social good**.
 
 ---
 
-📬 **Let's Connect!**  
-[🔗 LinkedIn](https://www.linkedin.com/in/cbzca) • [🌍 Website](https://your-website.com) • [🐦 Twitter](https://twitter.com/your-handle)
+## 🚀 Projects & Contributions  
+🎯 **Research Focus:**  
+- 🛰 **AI for Satellite-based Monitoring** *(ETH & ICRC Collaboration)*  
+- 🚗 **Autonomous Driving Safety** *(ConvAE for Adverse Weather Detection)*  
+- 📊 **Trade and Economic Policy** *(OECD, WTO, Statistics Canada)*  
+
+💡 **Tech Stack:**  
+- 🧠 **Deep Learning:** PyTorch, TensorFlow, Detectron2, MMDetection  
+- 📊 **Data Science:** Python, R, PostgreSQL, MATLAB, GIS  
+- 🚀 **Cloud & Infra:** Azure, Databricks, Kubernetes  
+
+---
+
+## 📜 Recent Publications  
+📄 [Enhancing Safety of Autonomous Vehicles in Adverse Weather](#)  
+📄 [AI-Driven Predictive Models for Sustainable Agriculture](#)  
+📄 [Restricted Hopfield Networks and Adversarial Robustness](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173610613.34874972)  
+
+---
+
+## 📬 Let's Connect!  
+📩 **Email:** your.email@example.com  
+🌐 **Website:** [yourwebsite.com](https://yourwebsite.com)  
+🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
+
+---
+
+⭐ **Fun Fact:** *I love exploring urban aesthetics and writing papers on cutting-edge AI methods!* 🤖📚  
+🎮 Also a fan of **otome & BL games** with a professional twist!  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8wM3FqcmE4ZGg3ZG9mZGJieGd2MmxmdHV5NThodnM4NzIzOHNhNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N7VIZHsDbf9lFX6oyY/giphy.gif" width="300">
+</p>
