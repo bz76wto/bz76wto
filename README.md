@@ -27,7 +27,7 @@
 ---
 ## 🚀 Projects & Contributions
 ### 🎯 Research Focus:
-- 🛰 **AI for Satellite-based Monitoring** *(ETH & ICRC Collaboration)*  
+- 🛰 **AI for Satellite-based Monitoring** *(Canadian Space Agency, European Space Agency)*  
   - Developing **robust AI models** for remote sensing, crisis detection, and environmental monitoring.  
   - Enhancing **adaptability in adverse conditions** (e.g., nightlight super-resolution for crisis mapping).  
 
