@@ -60,8 +60,8 @@
 
 ## 📬 Let's Connect!  
 📩 **Email:** bzhan138@uottawa.ca 
-🌐 **Website:** [yourwebsite.com](https://yourwebsite.com)  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
+🌐 **Website:** [yourwebsite.com](https://yourwebsite.com) 🚧 *(Coming Soon...)*  
+🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle) 🚧 *(Coming Soon...)*   
 
 ---
 
