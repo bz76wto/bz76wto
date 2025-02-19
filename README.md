@@ -25,12 +25,19 @@
 - ✨ Love working on **computer vision, NLP, and AI for social good**.
 
 ---
-
-## 🚀 Projects & Contributions  
-🎯 **Research Focus:**  
+## 🚀 Projects & Contributions
+### 🎯 Research Focus:
 - 🛰 **AI for Satellite-based Monitoring** *(ETH & ICRC Collaboration)*  
+  - Developing **robust AI models** for remote sensing, crisis detection, and environmental monitoring.  
+  - Enhancing **adaptability in adverse conditions** (e.g., nightlight super-resolution for crisis mapping).  
+
 - 🚗 **Autonomous Driving Safety** *(ConvAE for Adverse Weather Detection)*  
-- 📊 **Trade and Economic Policy** *(OECD, WTO, Statistics Canada)*  
+  - Optimizing **ConvAE for robustness** in adverse weather detection.  
+  - Improving **model generalization** across diverse environmental conditions for safer self-driving systems.  
+
+- 🛰 **Machine Learning for Space Applications** *(Canadian Space Agency, European Space Agency)*  
+  - Applied **deep learning & computer vision** to automate **satellite-based data processing**.  
+  - Investigated **AI-driven prediction models** for environmental monitoring and disaster response.  
 
 💡 **Tech Stack:**  
 - 🧠 **Deep Learning:** PyTorch, TensorFlow, Detectron2, MMDetection  
